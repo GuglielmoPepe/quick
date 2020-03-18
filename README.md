@@ -10,7 +10,7 @@
 * No classes
 
 ## Why another css framework?
-When i make **Quick** demo applications or websites with simple content, i don't want to spend time styling them, but i don't like the default styles. 
+When i make applications or websites with simple content, i don't want to spend time styling them, but i don't like the default styles. 
 
 **Quick** is a CSS framework that doesn't require any classes. I just include it in my ```<head>``` and forget about it, while it silently makes everything nicer. In **Quick**, HTML is king while CSS is a supportive element that only makes HTML look better.
 
