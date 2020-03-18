@@ -1,6 +1,6 @@
 # Under development
 
-**Quick** is a CSS framework for web developers, [like myself](https://www.guglielmopepe.com/?utm_source=github&utm_medium=**Quick**.css&utm_campaign=awareness), who don't want to spend time styling but want their web services to look nice. 
+**Quick** is a CSS framework for web developers, [like myself](https://www.guglielmopepe.com/?utm_source=github&utm_medium=quick&utm_campaign=awareness), who don't want to spend time styling but want their web services to look nice. 
 
 ## Goals
 * Mobile first
