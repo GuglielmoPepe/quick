@@ -1,6 +1,6 @@
 # Under development
 
-**Quick** is a CSS framework for web developers, [like myself](https://www.guglielmopepe.com/?utm_source=github&utm_medium=quick&utm_campaign=awareness), who don't want to spend time styling but want their web services to look nice. 
+**Quick** is a CSS framework for web developers, [like myself](https://www.guglielmopepe.com/?utm_source=github&utm_medium=quick&utm_campaign=awareness), who do not have time to styling but want their web services to look nice. 
 
 ## Goals
 * Mobile first
@@ -10,7 +10,7 @@
 * No classes
 
 ## Why another css framework?
-When i make applications or websites with simple content, i don't want to spend time styling them, but i don't like the default styles. 
+When i make **Quick** demo applications or websites with simple content, i do not have time to styling styling them, but i don't like the default styles. 
 
 **Quick** is a CSS framework that doesn't require any classes. I just include it in my ```<head>``` and forget about it, while it silently makes everything nicer. In **Quick**, HTML is king while CSS is a supportive element that only makes HTML look better.
 
@@ -22,8 +22,9 @@ The HTML stays clean and only exposes the data in a pure HTML5 way.
  
 
 ## Who could use ?
-**Quick** is designed for people which are making a simple page or demo application when they don't want to spend time styling. 
+**Quick** is designed for people which are making a simple page or demo application when they do not have time to styling. 
 
 It solves most of the problems associated with responsiveness of forms, appearance of form controls, tables, fonts, and colors.
 
 When your demo is complete, you can spend time to styling. **Quick** gives you an adequate foundation to start from, but if you love simple beautiful page, you have finished.
+
