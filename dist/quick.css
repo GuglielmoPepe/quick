@@ -2,6 +2,60 @@
 * Document
 */
 
+*{
+
+	box-sizing: border-box;
+
+}
+
+::before{
+
+	box-sizing: border-box;
+
+	text-decoration: inherit;
+
+	vertical-align: inherit;
+
+}
+
+::after{
+
+	box-sizing: border-box;
+
+	text-decoration: inherit;
+
+	vertical-align: inherit;
+
+}
+
+::selection{
+
+	background: rgba(0, 100, 193, 0.25);
+
+}
+
+html{
+
+	cursor: default;
+
+	font-size: 16px;
+
+	line-height: 1.5;
+
+	-moz-tab-size: 4;
+
+	tab-size: 4;
+
+	-webkit-tap-highlight-color: transparent;
+
+	-ms-text-size-adjust: 100%;
+
+	-webkit-text-size-adjust: 100%;
+
+	word-break: break-word;
+
+}
+
 
 /*
 * Sections
