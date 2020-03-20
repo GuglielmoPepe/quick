@@ -61,6 +61,305 @@ html{
 * Sections
 */
 
+address{
+
+	margin-bottom: 1.5em;
+
+	margin-left: 0;
+
+	margin-right: 0;
+
+	margin-top: 1.5em;
+
+}
+
+article{
+
+	margin-bottom: 1.5em;
+
+	margin-left: 0;
+
+	margin-right: 0;
+
+	margin-top: 1.5em;
+
+}
+
+aside{
+
+	margin-bottom: 1.5em;
+
+	margin-left: 0;
+
+	margin-right: 0;
+
+	margin-top: 1.5em;
+
+}
+
+body{
+
+	margin-bottom: 0;
+
+	margin-left: auto;
+
+	margin-right: auto;
+
+	margin-top: 0;
+
+	max-width: 720px;
+
+}
+
+body > footer{
+
+	color: #aaa;
+
+	font-size: 0.875em;
+
+	line-height: 1.714em;
+
+	margin-bottom: 1.714em;
+
+	margin-left: 0;
+
+	margin-right: 0;
+
+	margin-top: 1.714em;
+
+	text-align: center;
+
+}
+
+footer{
+
+	margin-bottom: 1em;
+
+	margin-left: 0;
+
+	margin-right: 0;
+
+	margin-top: 1em;
+
+}
+
+h1{
+
+	font-size: 2.5em;
+
+	line-height: 1.2em;
+
+	margin-bottom: 0.6em;
+
+	margin-left: 0;
+
+	margin-right: 0;
+
+	margin-top: 0.6em;
+
+}
+
+h2{
+
+	font-size: 2em;
+
+	line-height: 1.5em;
+
+	margin-bottom: 1.333em;
+
+	margin-left: 0;
+
+	margin-right: 0;
+
+	margin-top: 1.333em;
+
+}
+
+h3{
+
+	font-size: 1.5em;
+
+	line-height: 2em;
+
+	margin-bottom: 1em;
+
+	margin-left: 0;
+
+	margin-right: 0;
+
+	margin-top: 1em;
+
+}
+
+h4{
+
+	font-size: 1.25em;
+
+	line-height: 1.2em;
+
+	margin-bottom: 1.2em;
+
+	margin-left: 0;
+
+	margin-right: 0;
+
+	margin-top: 1.2em;
+
+}
+
+h5{
+
+	font-size: 1em;
+
+	line-height: 1.5em;
+
+	margin-bottom: 1.5em;
+
+	margin-left: 0;
+
+	margin-right: 0;
+
+	margin-top: 1.5em;
+
+}
+
+h6{
+
+	font-size: 0.75em;
+
+	line-height: 2em;
+
+	margin-bottom: 2em;
+
+	margin-left: 0;
+
+	margin-right: 0;
+
+	margin-top: 2em;
+
+}
+
+header{
+
+	margin-bottom: 1.5em;
+
+	margin-left: 0;
+
+	margin-right: 0;
+
+	margin-top: 1.5em;
+
+}
+
+hgroup{
+
+	margin-bottom: 1.5em;
+
+	margin-left: 0;
+
+	margin-right: 0;
+
+	margin-top: 1.5em;
+
+}
+
+hgroup > h1{
+
+	margin-bottom: 0;
+
+	margin-left: 0;
+
+	margin-right: 0;
+
+	margin-top: 0;
+
+}
+
+hgroup > h2{
+
+	margin-bottom: 0;
+
+	margin-left: 0;
+
+	margin-right: 0;
+
+	margin-top: 0;
+
+}
+
+hgroup > h3{
+
+	margin-bottom: 0;
+
+	margin-left: 0;
+
+	margin-right: 0;
+
+	margin-top: 0;
+
+}
+
+hgroup > h4{
+
+	margin-bottom: 0;
+
+	margin-left: 0;
+
+	margin-right: 0;
+
+	margin-top: 0;
+
+}
+
+hgroup > h5{
+
+	margin-bottom: 0;
+
+	margin-left: 0;
+
+	margin-right: 0;
+
+	margin-top: 0;
+
+}
+
+hgroup > h6{
+
+	margin-bottom: 0;
+
+	margin-left: 0;
+
+	margin-right: 0;
+
+	margin-top: 0;
+
+}
+
+nav{
+
+	margin-bottom: 1.5em;
+
+	margin-left: 0;
+
+	margin-right: 0;
+
+	margin-top: 1.5em;
+
+}
+
+section{
+
+	margin-bottom: 1.5em;
+
+	margin-left: 0;
+
+	margin-right: 0;
+
+	margin-top: 1.5em;
+
+}
+
+
 
 /*
 * Grouping
