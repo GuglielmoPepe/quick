@@ -972,6 +972,67 @@ video{
 * Tabular
 */
 
+caption{
+
+	font-style: italic;
+
+}
+
+table{
+
+	display: inline-block;
+
+	border-collapse: collapse;
+
+	border-spacing: 0;
+
+	margin-bottom: 1em;
+
+	margin-left: 0;
+
+	margin-right: 0;
+
+	margin-top: 1em;
+
+	max-width: 100%;
+
+	overflow-x: auto;
+
+	text-align: left;
+
+	vertical-align: top;
+
+}
+
+td{
+
+	padding-bottom: 0.35em;
+
+	padding-left: 0.75em;
+
+	padding-right: 0.75em;
+
+	padding-top: 0.35em;
+
+	vertical-align: top;
+
+}
+
+th{
+
+	padding-bottom: 0.35em;
+
+	padding-left: 0.75em;
+
+	padding-right: 0.75em;
+
+	padding-top: 0.35em;
+
+	vertical-align: top;
+
+}
+
+
 
 /*
 * Forms
