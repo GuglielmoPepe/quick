@@ -1,6 +1,10 @@
-#quick.css
+# quick.css
+
+CSS framework for web developers who do not have time
+
 
 **Quick** is a CSS framework for web developers, [like myself](https://www.guglielmopepe.com/?utm_source=github.com&utm_medium=readme&utm_campaign=quick.css), who do not have time to styling but want their web services to look nice. 
+
 
 ## Goals
 
@@ -30,3 +34,98 @@ It solves most of the problems associated with responsiveness of forms, appearan
 
 When your demo is complete, you can spend time to styling. **Quick.css** gives you an adequate foundation to start from, but if you love simple beautiful page, you have finished.
 
+## How to add it?
+
+You can download minified or unminified version.
+
+### Minified version
+
+You can download minified version [quick.min.css](https://raw.githubusercontent.com/GuglielmoPepe/quick/master/src/quick.min.css) and use together with your HTML by adding:
+
+```
+> <!DOCTYPE html>
+> <html>
+>   <head>
+>     <link rel="stylesheet" href="quick.min.css"/>
+>     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+>   </head>
+> </html>
+```
+
+You can use too jsdelivr for link latest minified version of the **Quick.css**:
+
+```
+> <!DOCTYPE html>
+> <html>
+>   <head>
+>     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/GuglielmoPepe/quick/src/quick.min.css"/>
+>     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+>   </head>
+> </html>
+```
+
+If you want loading an exact minified version of the **Quick.css** use jsdelivr with version:
+
+```
+> <!DOCTYPE html>
+> <html>
+>   <head>
+>     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/GuglielmoPepe/quick@1.0.0/src/quick.min.css"/>
+>     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+>   </head>
+> </html>
+```
+
+
+
+### Unminified version
+
+**Quick.css** is also available as unminified stylesheet, which can be handy during styling.
+
+You can download minified version [quick.css](https://raw.githubusercontent.com/GuglielmoPepe/quick/master/src/quick.css) and use together with your HTML by adding:
+
+```
+> <!DOCTYPE html>
+> <html>
+>   <head>
+>     <link rel="stylesheet" href="quick.css"/>
+>     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+>   </head>
+> </html>
+```
+
+You can use too jsdelivr for link latest unminified version of the **Quick.css**:
+
+```
+> <!DOCTYPE html>
+> <html>
+>   <head>
+>     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/GuglielmoPepe/quick/src/quick.css"/>
+>     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+>   </head>
+> </html>
+```
+
+If you want loading an exact unminified version of the **Quick.css** use jsdelivr with version:
+
+```
+> <!DOCTYPE html>
+> <html>
+>   <head>
+>     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/GuglielmoPepe/quick@1.0.0/src/quick.css"/>
+>     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+>   </head>
+> </html>
+```
+
+
+## Browser support
+
+- Chrome (last 3)
+- Edge (last 3)
+- Firefox (last 3)
+- Firefox ESR
+- Opera (last 3)
+- Safari (last 3)
+- iOS Safari (last 2)
+- Internet Explorer 9+
