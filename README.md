@@ -39,7 +39,7 @@ You can download minified or unminified version.
 
 You can download minified version [quick.min.css](https://raw.githubusercontent.com/GuglielmoPepe/quick/master/src/quick.min.css) and use together with your HTML by adding:
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -51,7 +51,7 @@ You can download minified version [quick.min.css](https://raw.githubusercontent.
 
 You can use too jsdelivr for link latest minified version of the **Quick.css**:
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -63,7 +63,7 @@ You can use too jsdelivr for link latest minified version of the **Quick.css**:
 
 If you want loading an exact minified version of the **Quick.css** use jsdelivr with version:
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -81,7 +81,7 @@ If you want loading an exact minified version of the **Quick.css** use jsdelivr 
 
 You can download minified version [quick.css](https://raw.githubusercontent.com/GuglielmoPepe/quick/master/src/quick.css) and use together with your HTML by adding:
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -93,7 +93,7 @@ You can download minified version [quick.css](https://raw.githubusercontent.com/
 
 You can use too jsdelivr for link latest unminified version of the **Quick.css**:
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -105,7 +105,7 @@ You can use too jsdelivr for link latest unminified version of the **Quick.css**
 
 If you want loading an exact unminified version of the **Quick.css** use jsdelivr with version:
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
