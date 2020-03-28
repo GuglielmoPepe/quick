@@ -1,8 +1,5 @@
 # quick.css
 
-CSS framework for web developers who do not have time
-
-
 **Quick** is a CSS framework for web developers, [like myself](https://www.guglielmopepe.com/?utm_source=github.com&utm_medium=readme&utm_campaign=quick.css), who do not have time to styling but want their web services to look nice. 
 
 
@@ -43,37 +40,37 @@ You can download minified or unminified version.
 You can download minified version [quick.min.css](https://raw.githubusercontent.com/GuglielmoPepe/quick/master/src/quick.min.css) and use together with your HTML by adding:
 
 ```
-> <!DOCTYPE html>
-> <html>
->   <head>
->     <link rel="stylesheet" href="quick.min.css"/>
->     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
->   </head>
-> </html>
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="quick.min.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  </head>
+</html>
 ```
 
 You can use too jsdelivr for link latest minified version of the **Quick.css**:
 
 ```
-> <!DOCTYPE html>
-> <html>
->   <head>
->     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/GuglielmoPepe/quick/src/quick.min.css"/>
->     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
->   </head>
-> </html>
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/GuglielmoPepe/quick/src/quick.min.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  </head>
+</html>
 ```
 
 If you want loading an exact minified version of the **Quick.css** use jsdelivr with version:
 
 ```
-> <!DOCTYPE html>
-> <html>
->   <head>
->     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/GuglielmoPepe/quick@1.0.0/src/quick.min.css"/>
->     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
->   </head>
-> </html>
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/GuglielmoPepe/quick@1.0.0/src/quick.min.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  </head>
+</html>
 ```
 
 
@@ -85,37 +82,37 @@ If you want loading an exact minified version of the **Quick.css** use jsdelivr 
 You can download minified version [quick.css](https://raw.githubusercontent.com/GuglielmoPepe/quick/master/src/quick.css) and use together with your HTML by adding:
 
 ```
-> <!DOCTYPE html>
-> <html>
->   <head>
->     <link rel="stylesheet" href="quick.css"/>
->     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
->   </head>
-> </html>
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="quick.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  </head>
+</html>
 ```
 
 You can use too jsdelivr for link latest unminified version of the **Quick.css**:
 
 ```
-> <!DOCTYPE html>
-> <html>
->   <head>
->     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/GuglielmoPepe/quick/src/quick.css"/>
->     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
->   </head>
-> </html>
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/GuglielmoPepe/quick/src/quick.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  </head>
+</html>
 ```
 
 If you want loading an exact unminified version of the **Quick.css** use jsdelivr with version:
 
 ```
-> <!DOCTYPE html>
-> <html>
->   <head>
->     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/GuglielmoPepe/quick@1.0.0/src/quick.css"/>
->     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
->   </head>
-> </html>
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/GuglielmoPepe/quick@1.0.0/src/quick.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  </head>
+</html>
 ```
 
 
@@ -129,3 +126,16 @@ If you want loading an exact unminified version of the **Quick.css** use jsdeliv
 - Safari (last 3)
 - iOS Safari (last 2)
 - Internet Explorer 9+
+
+
+## Got questions? Any troubles?
+If you have questions or general suggestions, don't hesitate to submit a new [Github issue](https://github.com/GuglielmoPepe/quick/issues).
+
+
+## Change log
+Please see [CHANGELOG](CHANGELOG) for more information on what has changed recently.
+
+
+## License
+The MIT License. Please see [License File](LICENSE) for more information.
+
