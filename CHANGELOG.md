@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## 1.0.2 - 2020-10-05
+ - Fix bug select multiple in Chrome
+ - Fix url of changelog file in readme
+
 ## 1.0.1 - 2020-03-31
 - Fix margins for mobile
 - Fix font-size unit for small element 
