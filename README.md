@@ -133,7 +133,7 @@ If you have questions or general suggestions, don't hesitate to submit a new [Gi
 
 
 ## Change log
-Please see [CHANGELOG](CHANGELOG) for more information on what has changed recently.
+Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed recently.
 
 
 ## License
