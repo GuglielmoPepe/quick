@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  - Remove the '[aria-hidden = "true"]' attribute from elements that contain focusable descendants
  - Remove 'hgroup' rules: the 'hgroup' element has been removed from the HTML5 (W3C) specification
  - Remove 'nav ol' selector
+ - Remove 'nav ul' selector
  - Fix stylesheet URL in docs
  - Fix version in package.json
  - Fix unclosed tag 'img' in docs/example.html
