@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  - Fix stylesheet URL in docs
  - Fix version in package.json
  - Fix unclosed tag img in docs/example.html
-
+ - Remove the [aria-hidden = "true"] attribute from elements that contain focusable descendants
 
 ## [2.0.0 - 2020-04-14]
 
