@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
  - Fix stylesheet URL in docs
  - Fix version in package.json
+ - Fix unclosed tag img in docs/example.html
 
 
 ## [2.0.0 - 2020-04-14]
