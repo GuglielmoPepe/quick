@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  - Add 'id' attribute for heading sections in docs/example.html
  - Remove the '[aria-hidden = "true"]' attribute from elements that contain focusable descendants
  - Remove 'hgroup' rules: the 'hgroup' element has been removed from the HTML5 (W3C) specification
+ - Remove display='block' property for 'table' selector
  - Remove 'nav ol' selector
  - Remove 'nav ul' selector
  - Fix stylesheet URL in docs
