@@ -5,12 +5,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+ - Add 'id' attribute for heading sections in docs/example.html
+ - Remove the '[aria-hidden = "true"]' attribute from elements that contain focusable descendants
+ - Remove 'hgroup' rules: the 'hgroup' element has been removed from the HTML5 (W3C) specification
+ - Remove 'nav ol' selector
  - Fix stylesheet URL in docs
  - Fix version in package.json
- - Fix unclosed tag img in docs/example.html
- - Remove the [aria-hidden = "true"] attribute from elements that contain focusable descendants
- - Remove hgroup rules: the hgroup element has been removed from the HTML5 (W3C) specification
- - Add id attribute for heading sections in docs/example.html
+ - Fix unclosed tag 'img' in docs/example.html
 
 ## [2.0.0 - 2020-04-14]
 
