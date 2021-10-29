@@ -1,0 +1,595 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Titolo del documento -->
+        <title>Examples - Quick.css</title>
+
+        <!-- Description -->
+        <meta name="description" content="There are demos of Quick.css capabilities. If you open the source code of this page you'll see all of them.">
+
+        <!-- CSS external -->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/GuglielmoPepe/quick@1.0.2/src/quick.min.css"/>
+
+        <!-- Open Graph Protocol -->
+        <meta property="og:url" content="https://guglielmopepe.github.io/quick/index.html">
+        <meta property="og:type" content="article">
+        <meta property="og:title" content="Examples of Quick: a CSS framework for web developers who do not have time.">
+        <meta property="og:image" content="https://guglielmopepe.github.io/quick/logotype-1200x630.jpg">
+        <meta property="og:image:height" content="630">
+        <meta property="og:image:width" content="1200">
+        <meta property="og:description" content="There are demos of Quick.css capabilities. If you open the source code of this page you'll see all of them.">
+        <meta property="og:site_name" content="https://guglielmopepe.github.io/">
+        <meta property="article:author" content="Guglielmo Pepe">
+
+        <!-- Twitter card -->
+        <meta name="twitter:card" content="sommario">
+        <meta name="twitter:creator" content="@_gpepe">
+        <meta name="twitter:url" content="https://guglielmopepe.github.io/quick/index.html">
+        <meta name="twitter:title" content="Examples of Quick: a CSS framework for web developers who do not have time.">
+        <meta name="twitter:description" content="There are demos of Quick.css capabilities. If you open the source code of this page you'll see all of them.">
+        <meta name="twitter:image" content="https://guglielmopepe.github.io/quick/logotype-1200x630.jpg">
+
+  </head>
+
+  <body>
+
+    <header>
+
+      <h1>quick.css</h1>
+
+      <p>A CSS framework for web developers who do not have time.</p>
+
+    </header>
+
+    <nav>
+
+        <ul>
+            <li><a href="index.html">Overview</a></li>
+            <li><a href="examples.html">Examples</a></li>
+            <li><a href="download.html">Download</a></li>
+            <li><a href="https://www.github.com/GuglielmoPepe/quick/" rel="external">GitHub</a></li>
+        </ul>
+
+    </nav>
+
+
+    <main>
+
+        <article>
+
+            <header>
+
+                <h2>Examples</h2>
+
+                <p>There are demos of <strong>Quick.css</strong> capabilities. If you open the source code of this page you'll see all of them. </p>
+
+            </header>
+
+            <nav>
+
+                <h3 id="contents">Contents</h3>
+
+                <ol>
+                    <li><a href="#sections">Sections</a></li>
+                    <li><a href="#grouping">Grouping</a></li>
+                    <li><a href="#text-level">Text-level semantics</a></li>
+                    <li><a href="#edits">Edits</a></li>
+                    <li><a href="#embedded">Embedded</a></li>
+                    <li><a href="#tabular">Tabular</a></li>
+                    <li><a href="#forms">Forms</a></li>
+                    <li><a href="#interactive">Interactive</a></li>
+                </ol>
+
+            </nav>
+
+            <section>
+
+                <h3 id="sections">Sections</h3>
+
+                <!-- Headings -->
+
+                <h4>Headings</h4>
+
+                <p>H1 - H6 represent headings for their sections.</p>
+
+                <h1>Level 1 Heading</h1>
+                <h2>Level 2 Heading</h2>
+                <h3>Level 3 Heading</h3>
+                <h4>Level 4 Heading</h4>
+                <h5>Level 5 Heading</h5>
+                <h6>Level 6 Heading</h6>
+
+                <hr />
+
+                <!-- Navigation -->
+
+                <h4>Navigation</h4>
+
+                <p>In <code>&lt;nav&gt;</code> element use unordered list if you want horizontal menu. Otherwise you can use ordered list for vertical menu.</p>
+
+                <h5>Horizonthal navigation</h5>
+
+                <p>This is good choose for main menu.</p>
+
+                <nav>
+
+                    <ul>
+                        <li><a href=".">Link item 1</a></li>
+                        <li><a href=".">Link item 2</a></li>
+                        <li><a href=".">Link item 3</a></li>
+                    </ul>
+
+                </nav>
+
+                <h5>Vertical navigation</h5>
+
+                <p>This is good choose for table of content.</p>
+
+                <nav>
+
+                    <ol>
+                        <li><a href=".">Link item 1</a></li>
+                        <li><a href=".">Link item 2</a></li>
+                        <li><a href=".">Link item 3</a></li>
+                    </ol>
+
+                </nav>
+
+                <hr />
+
+                <!-- Address -->
+
+                <h4>Address</h4>
+
+                <p>Addresses are also styled to be <strong>awesome</strong>!</p>
+                <address>
+                  <a href='mailto:john.doe@example.com'>john.doe@example.com</a><br />
+                  <a href='tel:778-330-2389'>778-330-2389</a><br />
+                  <a href='sms:666-666-6666'>666-666-6666</a><br />
+                </address>
+
+
+            </section>
+
+            <section>
+
+                <h3 id="grouping">Grouping</h3>
+
+                <!-- Hr -->
+
+                <h4>The tag &lt;hr&gt;</h4>
+
+                <p>The hr element represents a paragraph-level thematic break and look like:</p>
+
+                <hr />
+
+                <!-- Pre -->
+
+                <h4>The tag &lt;pre&gt;</h4>
+
+                <p>The <code>&lt;pre&gt;</code> element represents a block of preformatted text. To represent a block of computer code, the <code>&lt;pre&gt;</code> element can be used with a <code>&lt;code&gt;</code> element like in this case:</p>
+
+                <pre><code>&lt;h2&gt;Code formatting&lt;/h2&gt;
+&lt;p&gt;If you need a good syntax highlight for your code, check the &lt;a title=&quot;Good plugins&quot; href=&quot;plugins.html#highlightjs-prismjs&quot;&gt;Plugins&lt;/a&gt; section.&lt;/p&gt;</code></pre>
+
+                <!-- Blockquote -->
+
+                <h4>The tag &lt;blockquote&gt;</h4>
+
+                <blockquote>
+                    <p>Simplicity is the ultimate sophistication.</p>
+                    <p><cite> - Leonardo Da Vinci</cite>
+                </blockquote>
+
+                <!-- Ol, Ul, Dl -->
+
+                <h4>The lists</h4>
+
+                <p>Use standard <code>&lt;ul&gt;</code>, <code>&lt;ol&gt;</code> and <code>&lt;dl&gt;</code> tag.</p>
+
+                <p>Unordered list look like this:</p>
+
+                <ul>
+                    <li>Italy</li>
+                    <li>Norway</li>
+                    <li>Switzerland</li>
+                    <li>United Kingdom</li>
+                    <li>United States</li>
+                </ul>
+
+                <p>Ordered list look like this:</p>
+
+                <ol>
+                    <li>Italy</li>
+                    <li>Norway</li>
+                    <li>Switzerland</li>
+                    <li>United Kingdom</li>
+                    <li>United States</li>
+                </ol>
+
+                <p>And definition list look like this:</p>
+
+                <dl>
+                    <dt>What do we want?</dt>
+                    <dd>Our data.</dd>
+                    <dt>When do we want it?</dt>
+                    <dd>Now.</dd>
+                    <dt>Where is it?</dt>
+                    <dd>We are not sure.</dd>
+                </dl>
+
+                <!-- Figure -->
+
+                <h4>The tag &lt;figure&gt;</h4>
+
+                <figure>
+
+                    <img alt="quick css visual" height="630" src="https://guglielmopepe.github.io/quick/logotype-1200x630.png" width="1200" />
+
+                    <figcaption>The image for open graph protocol</figcaption>
+
+                </figure>
+
+            </section>
+
+            <section>
+
+                <h3 id="text-level">Text-level semantics</h3>
+
+                <p>The tag <code>&lt;abbr&gt;</code> is for abbreviation like <abbr title="abbreviation">abbr.</abbr>.</p>
+
+                <p>The tag <code>&lt;em&gt;</code> is for <em>stress emphasis</em>.</p>
+
+                <p>The tag <code>&lt;i&gt;</code> is for <i>alternate voice or mood</i>.</p>
+
+                <p>The tag <code>&lt;strong&gt;</code> is for <strong>important piece of content</strong>.</p>
+
+                <p>The tag <code>&lt;small&gt;</code> is for <small>side comments</small>.</p>
+
+                <p>The tag <code>&lt;kbd&gt;</code> is for keyboard command like <kbd>ctrl + c</kbd>.</p>
+
+                <p>The tag <code>&lt;sup&gt;</code> is for superscript Sup<sup>&copy;</sup>.</p>
+
+                <p>The tag <code>&lt;sub&gt;</code> is for subscript Sub<sub>&reg;</sub>.</p>
+
+                <p>The tag <code>&lt;mark&gt;</code> is for a run of text in one document <mark>marked</mark> or <mark>highlighted</mark> for reference purposes.</p>
+
+
+            </section>
+
+            <section>
+
+                <h3 id="edits">Edits</h3>
+
+                <p>The tag <code>&lt;ins&gt;</code> is for <ins>inserted piece of content</ins>.</p>
+
+                <p>The tag <code>&lt;del&gt;</code> is for <del>deleted piece of content</del>.</p>
+
+            </section>
+
+            <section>
+
+                <h3 id="embedded">Embedded</h3>
+
+                <h4>The tag &lt;img&gt;</h4>
+
+                <figure>
+
+                    <img alt="quick css logo" height="300" src="https://guglielmopepe.github.io/quick/logotype-600x300.png" width="600" />
+
+                    <figcaption>Logotype for quick css framework</figcaption>
+
+                </figure>
+
+
+                <h4>The tag &lt;audio&gt;</h4>
+
+                <audio src="https://guglielmopepe.github.io/quick/New-Beginning.mp3" controls loop>It seems like your browser can't play this audio.</audio>
+
+                <small>"New Beginning" music by <a href="https://www.freebackgroundtracks.net">Twisterium/freebackgroundtracks.net</a> is licensed under Creative Commons license Attribution-ShareAlike 4.0 International.</small>
+
+
+                <h4>The tag &lt;video&gt;</h4>
+
+                <video src="https://guglielmopepe.github.io/quick/Clock-3019.mp4" controls>It seems like your browser can't play this video.</video>
+
+                <small>Video by <a href="https://pixabay.com/it/users/josemdelaa-2004715/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3019">José Manuel de Laá</a> from <a href="https://pixabay.com/it/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3019">Pixabay</a>.</small>
+
+            </section>
+
+            <section>
+
+                <h3 id="tabular">Tabular</h3>
+
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th>Quantity</th>
+                            <th>Price</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>CMS</td>
+                            <td>1</td>
+                            <td>1.200,00 €</td>
+                        </tr>
+                        <tr>
+                            <td>Theme</td>
+                            <td>1</td>
+                            <td>800,00 €</td>
+                        </tr>
+                        <tr>
+                            <td>Plugin</td>
+                            <td>8</td>
+                            <td>800,00</td>
+                        </tr>
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <td>Total</td>
+                            <td>10</td>
+                            <td>2.800,00 €</td>
+                        </tr>
+                    </tfoot>
+                </table>
+
+            </section>
+
+            <section>
+
+                <h3 id="forms">Forms</h3>
+
+                <p>Form with fieldset tag look like this:</p>
+
+                <form>
+
+                    <fieldset>
+
+                        <legend>Example of all form elements</legend>
+
+
+                        <!-- checkbox -->
+                        <p>
+                            <label for="test_checkbox_1">
+                                <input type="checkbox" id="test_checkbox_1" name="test_checkbox_1" />
+                                Test checkbox 1
+                            </label>
+
+                            <label for="test_checkbox_2">
+                                <input type="checkbox" id="test_checkbox_2" name="test_checkbox_2" />
+                                Test checkbox 2
+                            </label>
+
+                            <label for="test_checkbox_3">
+                                <input type="checkbox" id="test_checkbox_3" name="test_checkbox_3" />
+                                Test checkbox 3
+                            </label>
+                        </p>
+
+
+                        <!-- radio -->
+                        <p>
+                            <label>
+                                <input type="radio" id="test_radio_1" name="test_radio_1" />
+                                Test radio 1
+                            </label>
+
+                            <label>
+                                <input type="radio" id="test_radio_2" name="test_radio_2" />
+                                Test radio 2
+                            </label>
+
+                            <label>
+                                <input type="radio" id="test_radio_3" name="test_radio_3" />
+                                Test radio 3
+                            </label>
+                        </p>
+
+                        <!-- select drop-down -->
+                        <p>
+                            <label for="select_drop_down">select drop-down</label>
+
+                            <select id="select_drop_down" name="select_drop_down">
+                                <optgroup label="Group 1">
+                                    <option value="1">Some text goes here</option>
+                                    <option value="2">Another choice could be here</option>
+                                    <option value="3">Yet another item to be chosen</option>
+                                </optgroup>
+                                <optgroup label="Group 2">
+                                    <option value="4">Some text goes here</option>
+                                    <option value="5">Another choice could be here</option>
+                                    <option value="6">Yet another item to be chosen</option>
+                                </optgroup>
+                                <optgroup label="Group 3">
+                                    <option value="7">Some text goes here</option>
+                                    <option value="8">Another choice could be here</option>
+                                    <option value="9">Yet another item to be chosen</option>
+                                </optgroup>
+                            </select>
+                        <p>
+
+                        <!-- select multiple -->
+                        <p>
+                            <label for="select_multiple">select multiple</label>
+
+                            <select id="select_multiple" name="select_multiple" multiple="multiple" size="10">
+                                <optgroup label="Group 1">
+                                    <option value="1">Some text goes here</option>
+                                    <option value="2">Another choice could be here</option>
+                                    <option value="3">Yet another item to be chosen</option>
+                                </optgroup>
+                                <optgroup label="Group 2">
+                                    <option value="4">Some text goes here</option>
+                                    <option value="5">Another choice could be here</option>
+                                    <option value="6">Yet another item to be chosen</option>
+                                </optgroup>
+                                <optgroup label="Group 3">
+                                    <option value="7">Some text goes here</option>
+                                    <option value="8">Another choice could be here</option>
+                                    <option value="9">Yet another item to be chosen</option>
+                                </optgroup>
+                            </select>
+                        </p>
+
+                        <!-- textarea -->
+                        <p>
+                            <label for="textarea">textarea</label>
+                            <textarea id="textarea" name="textarea" rows="5" placeholder="This is an example of HTML5 placeholder text."></textarea>
+                        </p>
+
+                        <!-- input text -->
+                        <p>
+                            <label for="text">text</label>
+                            <input type="text" id="text" name="text" />
+                        </p>
+
+                        <!-- input url -->
+                        <p>
+                            <label for="url">url</label>
+                            <input type="url" id="url" name="url" placeholder="http://www.example.com" />
+                        </p>
+
+                        <!-- input email -->
+                        <p>
+                            <label for="email">email</label>
+                            <input type="email" id="email" name="email" placeholder="name@example.com" />
+                        </p>
+
+                        <!-- input password -->
+                        <p>
+                            <label for="password">password</label>
+                            <input type="password" id="password" name="password" placeholder="Alphanumeric123!" />
+                        </p>
+
+                        <!-- input datetime local -->
+                        <p>
+                            <label for="datetime-local">datetime local </label>
+                            <input type="datetime-local" id="datetime-local" name="datetime-local" />
+                        </p>
+
+                        <!-- input number -->
+                        <p>
+                            <label for="number">number</label>
+                            <input type="number" id="number" name="number" min="0" max="999" step="1" />
+                        </p>
+
+                        <!-- input tel -->
+                        <p>
+                            <label for="tel">tel (phone)</label>
+                            <input type="tel" id="tel" name="tel" />
+                        </p>
+
+                        <!-- input date -->
+                        <p>
+                            <label for="date">date</label>
+                            <input type="date" id="date" name="date" />
+                        </p>
+
+                        <!-- input month -->
+                        <p>
+                            <label for="month">month</label>
+                            <input type="month" id="month" name="month" />
+                        </p>
+
+                        <!-- input color -->
+                        <p>
+                            <label for="color">color</label>
+                            <input id="color" type="color" />
+                        </p>
+
+                        <!-- input search -->
+                        <p>
+                            <label for="search">search</label>
+                            <input type="search" id="search" name="search" />
+                        </p>
+
+                        <!-- input range -->
+                        <p>
+                            <label for="range">range</label>
+                            <input type="range" id="range" name="range" />
+                        </p>
+
+                        <!-- input file -->
+                        <p>
+                            <label for="file">upload file</label>
+                            <input type="file" id="file" name="file" />
+                        </p>
+
+                        <!-- inline input -->
+                        <p>
+                            <!-- input submit -->
+                            <input type="submit" value="input - submit" />
+
+                            <!-- input button -->
+                            <input type="button" value="input - button" />
+
+                            <!-- input reset -->
+                            <input type="reset" value="input - reset" />
+
+                            <!-- button -->
+                            <button type="submit">button tag</button>
+                        </p>
+
+                    </fieldset>
+
+                </form>
+
+
+                <p>Form without fieldset tag look like this:</p>
+
+                <form>
+
+                    <!-- input text -->
+                    <label for="text-inline">Add funds:</label>
+                    <input type="text" id="text-inline" name="text-inline" placeholder="e.g. €10" />
+                    <button type="submit">Pay</button>
+
+                </form>
+
+            </section>
+
+            <section>
+
+                <h3 id="interactive">Interactive</h3>
+
+                <p>The details and summary tag</p>
+
+                <details>
+                    <summary>Copying... <progress max="375505392" value="97543282"></progress> 25%</summary>
+                    <dl>
+                        <dt>Transfer rate:</dt> <dd>452KB/s</dd>
+                        <dt>Local filename:</dt> <dd>/home/rpausch/raycd.m4v</dd>
+                        <dt>Remote filename:</dt> <dd>/var/www/lectures/raycd.m4v</dd>
+                        <dt>Duration:</dt> <dd>01:16:27</dd>
+                        <dt>Color profile:</dt> <dd>SD (6-1-6)</dd>
+                        <dt>Dimensions:</dt> <dd>320×240</dd>
+                    </dl>
+                </details>
+
+            </section>
+
+
+
+        </article>
+
+    </main>
+
+
+    <footer>
+
+        <p><small>Made by <a href="https://www.guglielmopepe.com/?utm_source=guglielmopepe.github.io&utm_medium=footer&utm_campaign=quick.css">Guglielmo Pepe</a>, 2020</small></p>
+        <p><small><a href="https://github.com/GuglielmoPepe/quick/">GitHub</a> | <a href="https://raw.githubusercontent.com/GuglielmoPepe/quick/master/src/quick.min.css">Download</a> | <a href="https://github.com/GuglielmoPepe/quick/blob/master/LICENSE">MIT License</a></small></p>
+
+    </footer>
+
+
+  </body>
+
+</html>
