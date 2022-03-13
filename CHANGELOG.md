@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
  - Add 'id' attribute for heading sections in docs/example.html
+ - Change css variables
+ - Change font-size rules according a typographic scale
+ - Change measures according a grid scale
+ - Change font-family for readibility
  - Remove the '[aria-hidden = "true"]' attribute from elements that contain focusable descendants
  - Remove 'hgroup' rules: the 'hgroup' element has been removed from the HTML5 (W3C) specification
  - Remove display='block' property for 'table' selector
