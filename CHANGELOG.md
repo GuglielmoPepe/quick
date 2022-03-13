@@ -18,6 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  - Remove 'nav ol' selector
  - Remove 'nav ul' selector
  - Remove select background styling when multiple attribute is also present 
+ - Remove resize=block attribute to textarea selector
  - Fix stylesheet URL in docs
  - Fix version in package.json
  - Fix unclosed tag 'img' in docs/example.html
