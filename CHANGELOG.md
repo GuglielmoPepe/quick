@@ -6,7 +6,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
  - Add 'id' attribute for heading sections in docs/example.html
- - Add text-size-adjust to prevent adjustments of font size after orientation changes 
+ - Add text-size-adjust to prevent adjustments of font size after orientation changes
+ - Add float property to nav li::before 
  - Change css variables
  - Change font-size rules according a typographic scale
  - Change measures according a grid scale
