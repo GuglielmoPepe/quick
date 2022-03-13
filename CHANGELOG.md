@@ -5,13 +5,28 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+
+
+
+## [2.1.0 - 2021-03-13]
+
+### Added
+
  - Add 'id' attribute for heading sections in docs/example.html
  - Add text-size-adjust to prevent adjustments of font size after orientation changes
  - Add float property to nav li::before 
+
+
+### Changed
+
  - Change css variables
  - Change font-size rules according a typographic scale
  - Change measures according a grid scale
  - Change font-family for readibility
+
+
+### Removed
+
  - Remove the '[aria-hidden = "true"]' attribute from elements that contain focusable descendants
  - Remove 'hgroup' rules: the 'hgroup' element has been removed from the HTML5 (W3C) specification
  - Remove display='block' property for 'table' selector
@@ -19,9 +34,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  - Remove 'nav ul' selector
  - Remove select background styling when multiple attribute is also present 
  - Remove resize=block attribute to textarea selector
+
+
+### Fixed
+
  - Fix stylesheet URL in docs
  - Fix version in package.json
  - Fix unclosed tag 'img' in docs/example.html
+
+
 
 ## [2.0.0 - 2020-04-14]
 
@@ -175,12 +196,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  - Fix margins and paddings for 'nav > ul' selector
 
 
+
 ## 1.0.2 - 2020-10-05
  - Fix bug select multiple in Chrome
  - Fix url of changelog file in readme
 
+
+
 ## 1.0.1 - 2020-03-31
 - Fix margins for mobile
 - Fix font-size unit for small element 
+
+
 
 ## 1.0.0 - 2020-03-28
