@@ -140,12 +140,11 @@ pre code{background-color:var(--qk--background-color--100);padding:var(--qk--spa
 progress{display:inline-block;vertical-align:baseline;}
 samp{font-family:var(--qk--font-family--monospace);font-size:1em;}
 section{margin:var(--qk--spacing--l) var(--qk--spacing--none);}
-select{margin:0;text-transform:none;-ms-touch-action:manipulation;touch-action:manipulation;background-color:transparent;border:var(--qk--spacing--xxs) solid var(--qk--border-color--400);color:inherit;font:inherit;letter-spacing:inherit;padding:var(--qk--spacing--xs);-moz-appearance:none;-webkit-appearance:none;background:no-repeat right center / 1em;border-radius:0;padding-right:1em;height:auto;max-width:100%;display:inline-block;line-height:var(--qk--line-height--s);outline:none;width:100%;}
+select{margin:0;text-transform:none;-ms-touch-action:manipulation;touch-action:manipulation;background-color:transparent;border:var(--qk--spacing--xxs) solid var(--qk--border-color--400);color:inherit;font:inherit;letter-spacing:inherit;padding:var(--qk--spacing--xs);-moz-appearance:none;-webkit-appearance:none;background:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='4'%3E%3Cpath d='M4 0h6L7 4'/%3E%3C/svg%3E") no-repeat right center / 1em;border-radius:0;padding-right:1em;height:auto;max-width:100%;display:inline-block;line-height:var(--qk--line-height--s);outline:none;width:100%;}
 select:active{background-color:var(--qk--background-color--200);outline:none;}
 select:focus{border-color:var(--qk--border-color--700);outline:none;}
 select:hover{border-color:var(--qk--border-color--700);outline:none;}
-select:not([multiple]):not([size]){background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='4'%3E%3Cpath d='M4 0h6L7 4'/%3E%3C/svg%3E");}
-select[multiple]{-webkit-appearance:listbox !important;}
+select[multiple]{background-image:none;-webkit-appearance:listbox !important;}
 small{font-size:var(--qk--font-size--xs);line-height:var(--qk--line-height--s);}
 strong{font-weight:bolder;}
 sub{bottom:-0.25em;font-size:75%;line-height:0;position:relative;vertical-align:baseline;}
