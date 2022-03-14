@@ -1,8 +1,10 @@
 # quick.css
 
-**Quick** is a CSS framework for web developers, [like myself](https://www.guglielmopepe.com/?utm_source=github.com&utm_medium=readme&utm_campaign=quick.css), who do not have time to styling but want their web services to look nice. Current `master` points to version 2.1.0 of the framework. 
+**Quick** is a CSS framework for web developers, [like myself](https://www.guglielmopepe.com/?utm_source=github.com&utm_medium=readme&utm_campaign=quick.css), who do not have time to styling but want their web services to look nice. Current `master` points to version 2.1.1 of the framework. 
 
 Check out on the [demo page](https://guglielmopepe.github.io/quick/examples.html).
+
+
 
 ## Goals
 
@@ -11,6 +13,7 @@ Check out on the [demo page](https://guglielmopepe.github.io/quick/examples.html
 * Small size
 * Visually pleasing
 * No classes
+
 
 
 ## Why another css framework?
@@ -24,6 +27,7 @@ This framework doesn't require any classes. I just include it in my ```<head>```
 Unlike many other CSS frameworks, in **Quick.css** you don’t have to mention CSS classes in the HTML document. The HTML stays clean and only exposes the data in a pure HTML5 way.
 
 
+
 ## Who could use it?
 
 **Quick** is designed for people which are making a simple page or demo application when they do not have time to styling. 
@@ -32,9 +36,13 @@ It solves most of the problems associated with responsiveness of forms, appearan
 
 When your demo is complete, you can spend time to styling. **Quick.css** gives you an adequate foundation to start from, but if you love simple beautiful page, you have finished.
 
+
+
 ## How to add it?
 
 You can download minified or unminified version.
+
+
 
 ### Minified version
 
@@ -73,7 +81,6 @@ If you want loading an exact minified version of the **Quick.css** use jsdelivr 
   </head>
 </html>
 ```
-
 
 
 ### Unminified version
@@ -129,12 +136,15 @@ If you want loading an exact unminified version of the **Quick.css** use jsdeliv
 - Internet Explorer 9+
 
 
+
 ## Got questions? Any troubles?
 If you have questions or general suggestions, don't hesitate to submit a new [Github issue](https://github.com/GuglielmoPepe/quick/issues).
 
 
+
 ## Change log
 Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed recently.
+
 
 
 ## License
