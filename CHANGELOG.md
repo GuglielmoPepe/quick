@@ -15,7 +15,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  - Add '--qk--font-family--inline' variable
  - Add neutral color palette
  - Fix url logo image in example.html
- - Fix margins in 'h1' selector's rules
+ - Remove margins in 'article' selector's rules
+ - Remove margins in 'aside' selector's rules
+ - Remove margins in 'footer' selector's rules
+ - Remove margins in 'h1' selector's rules
+ - Remove margins in 'h2' selector's rules
+ - Remove margins in 'h3' selector's rules
+ - Remove margins in 'h4' selector's rules
+ - Remove margins in 'h5' selector's rules
+ - Remove margins in 'h6' selector's rules
+ - Remove margins in 'header' selector's rules
+ - Remove margins in 'nav' selector's rules
+ - Remove margins in 'section' selector's rules
 
 
 
