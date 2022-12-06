@@ -6,10 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 ## [Unreleased]
- - Add '--qk--color--anchor-active' variable
+ - Add '--qk--anchor-color--active' variable
+ - Add '--qk--anchor-color--hover' variable
+ - Add '--qk--anchor-color--link' variable
+ - Add '--qk--anchor-color--visited' variable
+ - Add '--qk--font-family--body' variable
+ - Add '--qk--font-family--heading' variable
+ - Add '--qk--font-family--inline' variable
  - Add neutral color palette
- - Change '--qk--color--anchor' variable name in '--qk--color--anchor-link'
- - Change '--qk--font-family' variable name in '--qk--font-family--sans-serif'
  - Fix url logo image in example.html
  - Fix margins in 'h1' selector's rules
 
