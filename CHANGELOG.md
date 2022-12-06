@@ -14,6 +14,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  - Add '--qk--font-family--heading' variable
  - Add '--qk--font-family--inline' variable
  - Add neutral color palette
+ - Change background-color in 'kbd' selector's rules
+ - Change color in 'kbd' selector's rules
+ - Change background-color in 'mark' selector's rules
+ - Change color in 'mark' selector's rules
+ - Change background-color in 'code' selector's rules
+ - Change color in 'code' selector's rules
+ - Change background-color in 'pre' selector's rules
+ - Change color in 'pre' selector's rules
  - Fix url logo image in example.html
  - Remove margins in 'article' selector's rules
  - Remove margins in 'aside' selector's rules
