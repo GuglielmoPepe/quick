@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  - Add '--qk--font-family--heading' variable
  - Add '--qk--font-family--inline' variable
  - Add neutral color palette
+ - Change examples in docs
  - Change background-color in 'kbd' selector's rules
  - Change color in 'kbd' selector's rules
  - Change background-color in 'mark' selector's rules
