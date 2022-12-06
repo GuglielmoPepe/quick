@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 ## [Unreleased]
+
+
+
+## 2.2.0 - 2022-12-06
+
+### Added
+
  - Add '--qk--anchor-color--active' variable
  - Add '--qk--anchor-color--hover' variable
  - Add '--qk--anchor-color--link' variable
@@ -14,6 +21,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  - Add '--qk--font-family--heading' variable
  - Add '--qk--font-family--inline' variable
  - Add neutral color palette
+
+
+### Changed
+
  - Change examples in docs
  - Change background-color in 'kbd' selector's rules
  - Change color in 'kbd' selector's rules
@@ -23,7 +34,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  - Change color in 'code' selector's rules
  - Change background-color in 'pre' selector's rules
  - Change color in 'pre' selector's rules
+
+
+### Fixed
  - Fix url of resources in example.html
+
+
+### Removed
  - Remove margins in 'article' selector's rules
  - Remove margins in 'aside' selector's rules
  - Remove margins in 'footer' selector's rules
