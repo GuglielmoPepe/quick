@@ -22,7 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  - Change color in 'code' selector's rules
  - Change background-color in 'pre' selector's rules
  - Change color in 'pre' selector's rules
- - Fix url logo image in example.html
+ - Fix url of resources in example.html
  - Remove margins in 'article' selector's rules
  - Remove margins in 'aside' selector's rules
  - Remove margins in 'footer' selector's rules
