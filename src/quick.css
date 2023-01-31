@@ -1,8 +1,8 @@
 @charset "UTF-8";
 /*
- * quick.css 2.2.1 (https://guglielmopepe.github.io/quick/)
+ * quick.css 2.2.3 (https://guglielmopepe.github.io/quick/)
  * Copyright 2023 Guglielmo Pepe <info@guglielmopepe.com> (https://www.guglielmopepe.com)
- * Licensed under MIT (https://github.com/GuglielmoPepe/quick/blob/master/LICENSE.md)
+ * Licensed under MIT (https://github.com/GuglielmoPepe/quick/blob/master/LICENSE)
  */
 *,::after,::before{box-sizing:border-box;background-repeat:no-repeat;}
 :-moz-focusring{outline:1px dotted ButtonText;}
