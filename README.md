@@ -1,6 +1,6 @@
 # quick.css
 
-**Quick** is a CSS framework for web developers, [like myself](https://www.guglielmopepe.com/?utm_source=github.com&utm_medium=readme&utm_campaign=quick.css), who do not have time to styling but want their web services to look nice. Current `master` points to version 2.2.1 of the framework. 
+**Quick** is a CSS framework for web developers, [like myself](https://www.guglielmopepe.com/?utm_source=github.com&utm_medium=readme&utm_campaign=quick.css), who do not have time to styling but want their web services to look nice. Current `master` points to version 2.2.3 of the framework. 
 
 Check out on the [demo page](https://guglielmopepe.github.io/quick/examples.html).
 
