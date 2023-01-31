@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 ## [Unreleased]
+
+
+
+## 2.2.1 - 2023-01-31
  - Add default color palette
  - Add letter-spacing to code, kbd and samp tags
  - Fix colors
@@ -13,6 +17,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  - Fix font-family variables
  - Fix variable names
  - Fix margins
+
 
 
 ## 2.2.0 - 2022-12-06
