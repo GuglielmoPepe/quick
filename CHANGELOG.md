@@ -7,7 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-
+## 2.3.0 - 2024-05-09
+ - Change all values in rules with variables and default values
+ - Remove global variables
+ 
+ 
 
 ## 2.2.3 - 2023-01-31
  - Fix documentation
