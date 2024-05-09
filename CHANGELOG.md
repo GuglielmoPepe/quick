@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  - Add title attribute to img tags
  - Add scope attribute to th tags
  - Add HTML 5.2 autocomplete attributes
+ - Add outlines and borders in a way that NOT removes or NOT renders non-visible the visual focus indicator
  
  
 
