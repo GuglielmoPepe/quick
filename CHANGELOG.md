@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 ## [Unreleased]
+ - Add ARIA landmarks to identify regions of a page
+ 
+ 
 
 ## 2.3.0 - 2024-05-09
  - Change all values in rules with variables and default values
