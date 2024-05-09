@@ -14,7 +14,13 @@
 
         <!-- CSS esterno -->
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/GuglielmoPepe/quick@2.3.0/src/quick.min.css" />
-
+        
+        <style>
+            :focus{outline: var(--qk--outline, 1px dashed #454545);}
+            html {letter-spacing:1em;}
+        
+        </style>
+        
   </head>
 
   <body>
@@ -390,7 +396,7 @@
                         <!-- input tel -->
                         <p>
                             <label for="tel">tel (phone)</label><br />
-                            <input type="tel" id="tel" name="tel" />
+                            <input autocomplete="tel" id="tel" name="tel" type="tel" />
                         </p>
 
                         <!-- input date -->
