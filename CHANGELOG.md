@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
  - Add letter-spacing rule for html tag (to check)
- - Add ARIA landmarks to identify regions of a page
+ - Add ARIA landmarks to identify regions of a page (to check)
  - Add title attribute to img tags
  - Add scope attribute to th tags
  - Add HTML 5.2 autocomplete attributes
