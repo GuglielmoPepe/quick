@@ -6,20 +6,29 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 ## [Unreleased]
+ - Add default values for variables
+ - Add --qk--font-family--body global variable
+ - Add --qk--font-family--coding global variable
+ - Add --qk--font-family--heading global variable
+ - Change var(--qk--spacing--none) with 0
+ - Change absolute units with relative units
+ - Fix fragment identifiers in example.html
+ - Remove :root selector
+
+
+
+
+
+
  - Add letter-spacing rule for html tag (to check)
  - Add ARIA landmarks to identify regions of a page (to check)
  - Add title attribute to img tags
  - Add scope attribute to th tags
  - Add HTML 5.2 autocomplete attributes
  - Add outlines and borders in a way that NOT removes or NOT renders non-visible the visual focus indicator
- 
- 
+ - Change default color for links
 
-## 2.3.0 - 2024-05-09
- - Change all values in rules with variables and default values
- - Remove global variables
- 
- 
+
 
 ## 2.2.3 - 2023-01-31
  - Fix documentation
