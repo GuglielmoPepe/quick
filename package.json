@@ -1,6 +1,6 @@
 {
   "name": "quick.css",
-  "version": "2.2.1",
+  "version": "2.3.0",
   "description": "CSS Framework for web developers, who do not have time to styling but want their web services to look nice",
   "main": "src/quick.css",
   "repository": {
