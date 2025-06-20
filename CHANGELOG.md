@@ -11,6 +11,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 
+## 2.3.1 - 2025-06-21
+ - Fix --qk--spacing--xxs value
+
+
+
 ## 2.3.0 - 2025-06-18
  - Add examples-2.2.3.html in docs
  - Change name of --qk--font-family--inline global variable in --qk--font-family--coding
